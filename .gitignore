@@ -1,0 +1,15 @@
+.*.sw?
+pkg
+spec/fixtures/modules
+spec/fixtures/.librarian
+spec/fixtures/.tmp
+.rspec_system
+.vagrant
+.bundle
+vendor
+tags
+log/
+junit/
+.idea
+.fixtures.yml
+.kitchen/
